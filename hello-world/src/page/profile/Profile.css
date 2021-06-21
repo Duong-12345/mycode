@@ -1,0 +1,185 @@
+#head {
+  position: absolute;
+  width: 405px;
+  height: 60px;
+  left: 21px;
+  top: 3px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 16px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Vector6 {
+  position: absolute;
+  width: 186px;
+  height: 190px;
+  left: 107px;
+  top: 73px;
+}
+#name {
+  position: absolute;
+  width: 448px;
+  height: 46px;
+  left: 377px;
+  top: 104px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#date {
+  position: absolute;
+  width: 264px;
+  height: 57px;
+  left: 88px;
+  top: 331px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#sex {
+  position: absolute;
+  width: 264px;
+  height: 57px;
+  left: 88px;
+  top: 396px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#company {
+  position: absolute;
+  width: 264px;
+  height: 57px;
+  left: 88px;
+  top: 461px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#home {
+  position: absolute;
+  width: 264px;
+  height: 57px;
+  left: 88px;
+  top: 526px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#address1 {
+  position: absolute;
+  width: 482px;
+  height: 57px;
+  left: 380px;
+  top: 453px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  border-bottom: 1px solid #000000;
+  display: inline;
+}
+#address2 {
+  position: absolute;
+  width: 482px;
+  height: 57px;
+  left: 380px;
+  top: 518px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  border-bottom: 1px solid #000000;
+  display: inline;
+}
+.date1 {
+  position: absolute;
+  width: 206px;
+  height: 57px;
+  left: 380px;
+  top: 323px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  border: none;
+  color: #000000;
+  border-bottom: 1px solid #000000;
+  display: inline;
+}
+.sex1 {
+  position: absolute;
+  width: 84px;
+  height: 57px;
+  left: 380px;
+  top: 388px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+  border: none;
+}

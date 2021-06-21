@@ -1,0 +1,126 @@
+.filter{
+    width: 617px;
+    height: 504px;
+    position: absolute;
+    left: -562px;
+    z-index: 1000;
+    background: white;
+    top: 88px;
+}
+.text{
+    height: 89px;
+    border: 1px solid #000000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin:0px;
+   
+}
+.text1{
+    position: absolute;
+    top: 109px;
+    left: 0px;
+    margin: 0px;
+    width: 308px;
+    height: 53px;
+    padding-left: 122px;
+    font-weight: 400;
+}
+.text2{
+    position: absolute;
+    top: 159px;
+    left: 0px;
+    margin: 0px;
+    width: 154px;
+    height: 61px;
+    padding-left: 62px;
+    font-weight: 400;
+}
+.text3{
+    position: absolute;
+    top: 223px;
+    left: 0px;
+    margin: 0px;
+    width: 154px;
+    height: 61px;
+    padding-left: 54px;
+    font-weight: 400;
+}
+.text4{
+    position: absolute;
+    top: 326px;
+    left: 0px;
+    margin: 0px;
+    width: 308px;
+    height: 53px;
+    padding-left: 104px;
+    font-weight: 400;
+}
+.text5{
+    position: absolute;
+    top: 376px;
+    left: 0px;
+    margin: 0px;
+    width: 154px;
+    height: 61px;
+    padding-left: 62px;
+    font-weight: 400;
+}
+.text6{
+    position: absolute;
+    top: 440px;
+    left: 0px;
+    margin: 0px;
+    width: 154px;
+    height: 61px;
+    padding-left: 54px;
+    font-weight: 400;
+}
+.filter1{
+    position: absolute;
+    top: 162px;
+    left: 173px;
+    margin: 0px;
+    width: 444px;
+    height: 61px;
+    padding-left: 174px;
+    font-weight: 400;
+    font-size: 32px;
+    border: none;
+}
+.filter2{
+    position: absolute;
+    top: 226px;
+    left: 173px;
+    margin: 0px;
+    width: 444px;
+    height: 61px;
+    padding-left: 110px;
+    font-weight: 400;
+    font-size: 32px;
+    border: none;
+}
+.filter3{
+    position: absolute;
+    top: 379px;
+    left: 173px;
+    margin: 0px;
+    width: 444px;
+    height: 61px;
+    padding-left: 174px;
+    font-weight: 400;
+    font-size: 32px;
+    border: none;
+}
+.filter4{
+    position: absolute;
+    top: 443px;
+    left: 173px;
+    margin: 0px;
+    width: 444px;
+    height: 61px;
+    padding-left: 174px;
+    font-weight: 400;
+    font-size: 32px;
+    border: none;
+}

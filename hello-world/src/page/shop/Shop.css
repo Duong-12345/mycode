@@ -1,0 +1,119 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.Shop {
+  background: #e5e5e5;
+  position: relative;
+}
+.head-shop {
+  position: absolute;
+  width: 1694px;
+  height: 119px;
+  background: #c6e5f4;
+}
+.Shop-logo {
+  position: absolute;
+  width: 98px;
+  height: 86px;
+  left: 37px;
+  top: 10px;
+}
+#title {
+  position: absolute;
+  left: 163px;
+  top: 30px;
+  font-family: Roboto;
+  font-size: 48px;
+  color: #000000;
+  margin-right: 50%;
+}
+.Vector4 {
+  position: absolute;
+  top: 25px;
+  left: 1600px;
+  width: 69px;
+  height: 69px;
+}
+.Menu {
+  position: absolute;
+  width: 243px;
+  height: 60px;
+  left: 0px;
+  top: 119px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+#title1 {
+  position: absolute;
+  width: 164px;
+  height: 27px;
+  left: 17px;
+  top: 15px;
+  font-family: Roboto;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.bar2 {
+  position: absolute;
+  width: 1451px;
+  height: 60.06px;
+  left: 243px;
+  top: 119px;
+  background: #ffffff;
+}
+.bar1 {
+  position: absolute;
+  width: 1451px;
+  height: 60.06px;
+  left: 243px;
+  top: 184px;
+  background: #ffffff;
+  border-bottom: 1px solid #ADADAD;
+}
+#title2 {
+  position: absolute;
+  width: 405px;
+  height: 60px;
+  left: 21px;
+  top: 3px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#title3 {
+  position: absolute;
+  left: 29px;
+  height: 58px;
+  font-family: Roboto;
+  font-size: 28px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.body{
+  position: relative;
+  height: 733px;
+  width: 1451px;
+  top: 60px;
+}
+.Body{
+  position: absolute;
+  left: 243px;
+  top: 122px;
+  width: 1451px;
+  height: 858px;
+  
+}

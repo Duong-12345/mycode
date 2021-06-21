@@ -1,0 +1,209 @@
+#text {
+  position: absolute;
+  width: 134px;
+  height: 62px;
+  left: 1302px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.bottom {
+  position: absolute;
+  height: 127px;
+  width: 1451px;
+  top: 606px;
+  left: 243px;
+  border-top: 1px solid #adadad;
+}
+.Text1 {
+  position: absolute;
+  width: 201.23px;
+  height: 40px;
+  left: 979px;
+  top: 4px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+.Text2 {
+  position: absolute;
+  width: 201.23px;
+  height: 40px;
+  left: 979px;
+  top: 44px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+.Text3 {
+  position: absolute;
+  width: 201.23px;
+  height: 40px;
+  left: 979px;
+  top: 84px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+.Text4 {
+  position: absolute;
+  width: 201.23px;
+  height: 40px;
+  left: 1221.77px;
+  top: 4px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  /* identical to box height, or 167% */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+.Text5 {
+  position: absolute;
+  width: 201.23px;
+  height: 40px;
+  left: 1221.77px;
+  top: 44px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  /* identical to box height, or 167% */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+.Text6 {
+  position: absolute;
+  width: 201.23px;
+  height: 40px;
+  left: 1221.77px;
+  top: 84px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  /* identical to box height, or 167% */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #000000;
+}
+.mid {
+  position: absolute;
+  height: 303px;
+  width: 1451px;
+  left: 243px;
+  top: 241px;
+}
+.image-cart {
+  position: absolute;
+  width: 188px;
+  height: 239px;
+  left: 88px;
+  top: 33px;
+}
+.name-cart {
+  position: absolute;
+  width: 497px;
+  height: 48px;
+  left: 373px;
+  top: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 16px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.describe-cart {
+  position: absolute;
+  width: 760px;
+  height: 155px;
+  left: 373px;
+  top: 77px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.price-cart {
+  position: absolute;
+  width: 760px;
+  height: 61px;
+  left: 373px;
+  top: 242px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+#nothing {
+  position: absolute;
+  top: 154px;
+  left: inherit;
+  font-size: xx-large;
+}

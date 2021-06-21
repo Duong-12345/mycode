@@ -1,0 +1,112 @@
+.name1 {
+  position: absolute;
+  width: 497px;
+  height: 48px;
+  left: 494px;
+  top: 46px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.price1 {
+  position: absolute;
+  width: 760px;
+  height: 61px;
+  left: 494px;
+  top: 309px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 40px;
+  /* or 111% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.describe {
+  position: absolute;
+  width: 760px;
+  height: 155px;
+  left: 494px;
+  top: 123px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 40px;
+  /* or 167% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.star1 {
+  position: absolute;
+  left: 494px;
+  top: 368px;
+}
+.buy {
+  position: absolute;
+  width: 368px;
+  height: 103px;
+  left: 495px;
+  top: 457px;
+  background: #00c2ff;
+  border-radius: 10px;
+  color: #fffdfd;
+  border: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 16px;
+  align-items: center;
+  text-align: center;
+  color: #fffdfd;
+  padding: 42px;
+}
+.add {
+  position: absolute;
+  width: 358px;
+  height: 103px;
+  left: 905px;
+  top: 457px;
+  background: #00ff19;
+  border-radius: 10px;
+  border: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 16px;
+  align-items: center;
+  text-align: center;
+
+  color: #fffdfd;
+}
+.img {
+  position: absolute;
+  width: 198px;
+  height: 107px;
+  left: 138px;
+  top: 560px;
+}
+.img1 {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  left: 1384px;
+}
